@@ -27,7 +27,7 @@ Users can create their profile, login , logout, post blogs, like, dislike and so
 4. Postman for checking the working of my endpoints.
 
 ## Installation and Running ##
-1.In terminal cd Backend
+1. In terminal cd Backend
 2. npm install
 3. npm run dev- to run the backend first
 4. Open a new terminal 
