@@ -25,3 +25,14 @@ Users can create their profile, login , logout, post blogs, like, dislike and so
 2. Express.js
 3. Sqlite3
 4. Postman for checking the working of my endpoints.
+
+##Installation and Running##
+1.In terminal cd Backend
+2. npm install
+3. npm run dev- to run the backend first
+4. Open a new terminal 
+5. cd frontend 
+6. cd vue-project
+7. npm install
+8. npm run dev- to run the frontend
+9. Let both terminal side by side one for frontend and another for backend.
